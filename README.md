@@ -3,7 +3,7 @@ Deux petits projets réalisés lors du cours INF3135 - Construction et maintenan
 
 `hw.c` permet de résoudre un mot mystère. Le programme lit sur `stdin` la grille de lettres, suivie de la lsite des mots cachés et écrit la solution sur `stdout`.
 
-`motzkin.c` prends en argument, sur `stdin`, un mot de Motzkin et génère une image SVG du chemin Motzkin correspondant, stocké dans le fichier `chemin_motzkin`.
+`motzkin.c` prends en argument, sur `stdin`, un mot de Motzkin et génère une image SVG du chemin Motzkin correspondant, stocké dans le fichier [`chemin_motzkin.svg`](./chemin_motzkin.svg).
 
 ## hw.c
 Pour compilé :
